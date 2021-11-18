@@ -1,0 +1,25 @@
+.brd {
+    border: 1px solid #0c0c0c;
+    width: 30px;
+    height: 30px;
+}
+
+.pain {
+    display: grid;
+    grid-template-columns: 30px 30px 30px 30px 30px 30px 30px 30px 30px 30px;
+
+}
+
+.ship {
+    visibility: visible;
+    position: relative;
+    width: 30px;
+    height: 30px;
+
+}
+
+.imgs {
+
+    width: 30px;
+    height: 30px;
+}
